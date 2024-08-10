@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fazil Books</string>
+    <string name="appid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banneradsid">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interadsid"></string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="exit_title">আপনি অ্যাপ হতে বের হতে চান?</string>
+    <string name="exit_message">অ্যাপটি আপনার ভালো লাগলে অবশ্যই ৫-স্টার রেটিং দিতে ভুলবেন না, কারণ এটি আমাকে আরও ভালো অ্যাপস বা নতুন আপডেট দিতে সহায়তা করে। অবশ্যই অ্যাপটি অন্যদের সাথে শেয়ার করবেন। ধন্যবাদ</string>
+
+</resources>
